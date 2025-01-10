@@ -202,3 +202,107 @@ border: none;
 color: rgb(255, 255, 255);
 background: rgb(255, 194, 57);
 }
+.extra{
+    margin-top: 32px;
+    width: 1280px;
+height: 256px;
+box-sizing: border-box;
+padding: 48px 24px 0px 24px;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+    background-image: url("../assets/quote-bg.png");
+    background-repeat: no-repeat;
+}
+.v-description{
+    width: 1232px;
+height: 96px;
+font-size: 16px;
+font-weight: 400;
+margin-bottom: 0px;
+}
+.name-title{
+    width: 1232px;
+height: 24px;
+font-size: 20px;
+font-weight: 600;
+margin-top: 0px;
+ color: rgba(14, 14, 14, 0.8)
+}
+
+.name-description{
+    height: 24px;
+    font-size: 16px;
+font-weight: 400;
+margin-top: 0px;
+margin-bottom: 48px;
+color: rgba(14, 14, 14, 0.6);
+}
+.opinion{
+height: auto;
+}
+table tr td{
+    border: 2px solid black;
+}
+
+/* recent news */
+.news-title{
+    font-size: 40px;
+font-weight: 700;
+margin-bottom: 0px;
+color: rgb(14, 14, 14);
+}
+.recent-news{
+    display: flex;
+    width: 1280px;
+height: 402px;
+border-radius: 24px;
+margin-top: 32px;
+margin-right: 32px;
+background: rgb(255, 255, 255);
+}
+.global{
+    width: 408px;
+height: 306px;
+border-radius: 24px;
+margin: 48px 32px 48px 48px;
+}
+.recent-news-title{
+    width: 744px;
+height: 38px;
+font-size: 32px;
+font-weight: 700;
+margin-bottom: 0px;
+color: rgba(14, 14, 14, 0.8);
+}
+.al-jazeera{
+    width: 134px;
+height: 40px;
+}
+.date-time{
+    width: 122px;
+height: 24px;
+font-size: 16px;
+font-weight: 400;
+margin-top: 12px;
+color: rgba(14, 14, 14, 0.7);
+}
+.global-description{
+    width: 744px;
+height: 72px;
+font-size: 16px;
+font-weight: 400;
+margin-top: 12px;
+color:rgba(14, 14, 14, 0.7)
+}
+.read-btn{
+    width: 139px;
+height: 48px; 
+align-items: center;
+padding: 13px 26px 13px 26px;
+border-radius: 8px;
+color: rgb(255, 255, 255);
+border: none;
+background: rgb(0, 106, 80);
+}
