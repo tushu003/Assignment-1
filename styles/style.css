@@ -70,6 +70,9 @@ border: none;
 border-radius: 8px;
 background: rgb(0, 106, 80);
 }
+.bannar-btn:hover{
+    background-color: rgb(91, 10, 55);
+}
 .bannar-img{
     width: 474px;
     margin: 80px 100px 80px 0px;
@@ -189,6 +192,7 @@ margin-top: 24px;
 .vision-3{
     background-color: rgb(247, 235, 207);
 }
+
 .btn-1{
     border-radius: 8px;
 border: none;
@@ -213,6 +217,7 @@ background: rgb(255, 194, 57);
 height: 256px;
 box-sizing: border-box;
 padding: 48px 24px 0px 24px;
+padding-bottom: 48px;
 border: 1px solid rgba(14, 14, 14, 0.15);
 border-radius: 16px;
 
@@ -239,9 +244,7 @@ margin-top: 0px;
 .name-description{
     height: 24px;
     font-size: 16px;
-font-weight: 400;
 margin-top: 0px;
-margin-bottom: 48px;
 color: rgba(14, 14, 14, 0.6);
 }
 .opinion{
@@ -362,6 +365,15 @@ background: rgb(255, 255, 255);
 }
 .read-btn:hover{
     background-color:rgb(91, 10, 55) ;
+} 
+.btn-1:hover{
+    background-color: rgb(91, 10, 55);
+}
+.btn-2:hover{
+    background-color: rgb(91, 10, 55);  
+}
+.btn-3:hover{
+    background-color: rgb(91, 10, 55);
 }
 
 .field{
@@ -437,6 +449,9 @@ text-align: center;
     margin-top: 0px;
     padding-left: 40px;
 background: rgb(255, 255, 255);
+}
+.subscribe-btn:hover{
+    background-color: rgb(91, 10, 55);
 }
 .subscribe-btn{
     width: 150px;
