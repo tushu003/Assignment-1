@@ -306,3 +306,9 @@ color: rgb(255, 255, 255);
 border: none;
 background: rgb(0, 106, 80);
 }
+.new-title{
+ margin: 0px 0px 48px 48px;   
+}
+.satellite{
+    margin: 48px 48px 48px 0px;
+}
